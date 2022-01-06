@@ -1,11 +1,5 @@
 # Sigmahacks
 PROJECT: FOOD FOR THOUGHT
-## Inspiration
-My Father, Eric Chou, was diagnosed with kidney failure four years ago. 
-He was notified that the main issue was due to his nutrition and diet.
-I knew that it was an issue but I was not sure what I could do since I was just a little boy. 
-However, now that I have learned coding, I have the ability to create an application that can make the process of understanding what foods are good and bad much more simple. 
-Through this application, I want to live vicariously through my father's legacy and to create an application that can help others encountering the same problem.
 ## What it does
 It detects images from different foods and analyzes them through databases to determine the effects of certain foods.
 ## How we built it
